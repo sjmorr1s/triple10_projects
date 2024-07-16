@@ -26,5 +26,5 @@ If you want to run this project on your local machine, follow these steps:
 Clone the repository to your local machine using git clone.
 Install the required libraries by running pip install -r requirements.txt.
 Navigate to the project directory and run streamlit run app.py (assuming your main application file is named app.py).
-Open a web browser and navigate to: https://triple10-projects.onrender.com to access the application.
+Open a web browser and navigate to: http://localhost:8501 to access the application.
 Note: Make sure you have Python and the required libraries installed on your machine before running the project.
